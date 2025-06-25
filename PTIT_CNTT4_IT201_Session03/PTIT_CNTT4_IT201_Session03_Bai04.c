@@ -65,3 +65,5 @@ int main() {
         free(mang);
         return 0;
     }
+}
+
